@@ -5,7 +5,7 @@ import { GLTFLoader } from 'three/examples/jsm/loaders/GLTFLoader.js'
 import * as dat from 'dat.gui'
 
 /**
- * Base
+ * Base 
  */
 // Debug
 const gui = new dat.GUI()
